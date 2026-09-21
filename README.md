@@ -6,7 +6,7 @@ Backend developer working in **Go**.
 
 ---
 
-### 🧠 [Synapse](https://github.com/card0re/synapse) · live at [synapse.tel](https://synapse.tel)
+### [Synapse](https://github.com/card0re/synapse) · live at [synapse.tel](https://synapse.tel)
 
 A skill-exchange marketplace where the currency is time, not money. Teach someone an hour of English, earn 60 minutes, spend them learning guitar. No payment rails — the ledger is minutes. In production, with real users.
 
