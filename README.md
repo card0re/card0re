@@ -1,4 +1,4 @@
-### Hi, I'm raxv6x 👋
+### Hi, I'm raxv6x 
 
 Backend developer working in **Go**.
 
