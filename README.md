@@ -1,10 +1,20 @@
-### Hi, I'm raxv6x 
+### Hi, I'm raxv6x 👋
 
 Backend developer working in **Go**.
 
-**Stack:** Go · PostgreSQL · SQLite · GORM · Fiber · net/http · Binance API · Telegram Bot API · Docker
+**Stack:** Go · PostgreSQL · SQLite · GORM · Fiber · gin · net/http · React · TypeScript · Docker · Google Cloud Run · Binance API · Telegram Bot API
 
-#### Projects
+---
+
+### 🧠 [Synapse](https://github.com/card0re/synapse) · live at [synapse.tel](https://synapse.tel)
+
+A skill-exchange marketplace where the currency is time, not money. Teach someone an hour of English, earn 60 minutes, spend them learning guitar. No payment rails — the ledger is minutes. In production, with real users.
+
+Go + gin API over Cloud SQL Postgres and a React 19 frontend, both running on Cloud Run. WebSocket chat, a Telegram bot handling login and lesson reminders, Gemini moderating listings and suggesting matches, Google Calendar and Meet links on accepted deals. Started on a DigitalOcean droplet and migrated to Cloud Run.
+
+---
+
+#### Other projects
 
 | Project | What it does |
 |---|---|
